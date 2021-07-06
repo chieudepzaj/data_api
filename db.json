@@ -1,18 +1,13 @@
 {
   "TP.Hồ Chí Minh": [
-    "districtData": {
+    "districtData": [
         "notes": "",
         "active": 6.427,
         "confirmed": 6.996,
         "migratedother": 0,
         "deceased": 14,
         "recovered": 554,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      }
+      ]
     ],
     "statecode": "SG"
   ],
@@ -24,12 +19,8 @@
         "migratedother": 0,
         "deceased": 7,
         "recovered": 3.912,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-    }
+        
+    ]
     
       ],
       

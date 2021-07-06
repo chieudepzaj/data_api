@@ -1,7 +1,6 @@
 {
-  "TP.Hồ Chí Minh": {
+  "TP.Hồ Chí Minh": [
     "districtData": {
-      "Unassigned": {
         "notes": "",
         "active": 6.427,
         "confirmed": 6.996,
@@ -14,12 +13,11 @@
           "recovered": 0
         }
       }
-    },
+    ],
     "statecode": "SG"
-  },
-  "Bắc Giang": {
+  ],
+  "Bắc Giang": [
     "districtData": {
-      "Nicobars": {
         "notes": "",
         "active": 1.789,
         "confirmed": 5.708,
@@ -32,5 +30,7 @@
           "recovered": 0
         }
     }
-    },
-      }
+    
+      ],
+      
+}

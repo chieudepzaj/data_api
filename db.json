@@ -12,7 +12,7 @@
     "statecode": "SG"
   ],
   "Bắc Giang": [
-    "districtData": {
+    "districtData": [
         "notes": "",
         "active": 1.789,
         "confirmed": 5.708,

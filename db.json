@@ -17,13 +17,10 @@
         "recovered": 120870
     }
   ],
-  "profile":[ {
+  "profile": {
     
      "active": 575,
-        "confirmed": 122272,
-        "migratedother": 0,
-        "deceased": 827,
-        "recovered": 120870
+    
   }
-           ],
+           
 }

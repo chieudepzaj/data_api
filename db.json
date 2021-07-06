@@ -1,19 +1,29 @@
 {
-  "posts": [
+  "TP.Hồ Chí Minh": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+       "active": 575,
+        "confirmed": 122272,
+        "migratedother": 0,
+        "deceased": 827,
+        "recovered": 120870
     }
   ],
-  "comments": [
+  "Bắc Giang": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+       "active": 575,
+        "confirmed": 122272,
+        "migratedother": 0,
+        "deceased": 827,
+        "recovered": 120870
     }
   ],
   "profile": {
-    "name": "typicode"
+    [
+     "active": 575,
+        "confirmed": 122272,
+        "migratedother": 0,
+        "deceased": 827,
+        "recovered": 120870
+    ]
   }
 }

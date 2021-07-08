@@ -1,304 +1,304 @@
 {
   "cases_time_series": [
     {
-      "dailyconfirmed": "213",
-      "dailydeceased": "5",
-      "dailyrecovered": "5",
+      "dailyconfirmed": "407",
+      "dailydeceased": "0",
+      "dailyrecovered": "51",
       "date": "9 Jun 2021",
       "dateymd": "2021-06-09",
       "totalconfirmed": "9565",
       "totaldeceased": "55",
-      "totalrecovered": "0"
+      "totalrecovered": "3547"
     },
     {
-      "dailyconfirmed": "213",
-      "dailydeceased": "5",
-      "dailyrecovered": "5",
+      "dailyconfirmed": "219",
+      "dailydeceased": "0",
+      "dailyrecovered": "89",
       "date": "10 Jun 2021",
       "dateymd": "2021-06-10",
       "totalconfirmed": "9784",
       "totaldeceased": "55",
-      "totalrecovered": "0"
+      "totalrecovered": "3636"
     },
     {
-      "dailyconfirmed": "15",
-      "dailydeceased": "0",
-      "dailyrecovered": "0",
+      "dailyconfirmed": "196",
+      "dailydeceased": "2",
+      "dailyrecovered": "72",
       "date": "11 Jun 2021",
       "dateymd": "2021-06-11",
       "totalconfirmed": "9980",
       "totaldeceased": "57",
-      "totalrecovered": "0"
+      "totalrecovered": "3708"
     },
     {
-      "dailyconfirmed": "10",
+      "dailyconfirmed": "260",
       "dailydeceased": "1",
-      "dailyrecovered": "3",
+      "dailyrecovered": "96",
       "date": "12 Jun 2021",
       "dateymd": "2021-06-12",
       "totalconfirmed": "10241",
       "totaldeceased": "58",
-      "totalrecovered": "0"
+      "totalrecovered": "3804"
     },
     {
-      "dailyconfirmed": "87",
-      "dailydeceased": "6",
-      "dailyrecovered": "1",
+      "dailyconfirmed": "297",
+      "dailydeceased": "1",
+      "dailyrecovered": "23",
       "date": "13 Jun 2021",
       "dateymd": "2021-06-13",
       "totalconfirmed": "10538",
       "totaldeceased": "59",
-      "totalrecovered": "0"
+      "totalrecovered": "3827"
     },
     {
-      "dailyconfirmed": "132",
-      "dailydeceased": "6",
-      "dailyrecovered": "2",
+      "dailyconfirmed": "272",
+      "dailydeceased": "2",
+      "dailyrecovered": "409",
       "date": "14 Jun 2021",
       "dateymd": "2021-06-14",
       "totalconfirmed": "10810",
       "totaldeceased": "61",
-      "totalrecovered": "0"
+      "totalrecovered": "4236"
     },
     {
-      "dailyconfirmed": "213",
-      "dailydeceased": "5",
-      "dailyrecovered": "5",
+      "dailyconfirmed": "402",
+      "dailydeceased": "0",
+      "dailyrecovered": "307",
       "date": "15 Jun 2021",
       "dateymd": "2021-06-15",
       "totalconfirmed": "11212",
       "totaldeceased": "61",
-      "totalrecovered": "2.516"
+      "totalrecovered": "4543"
     },
     {
-      "dailyconfirmed": "213",
-      "dailydeceased": "5",
-      "dailyrecovered": "5",
+      "dailyconfirmed": "423",
+      "dailydeceased": "0",
+      "dailyrecovered": "47",
       "date": "16 Jun 2021",
       "dateymd": "2021-06-16",
       "totalconfirmed": "11635",
       "totaldeceased": "61",
-      "totalrecovered": "0"
+      "totalrecovered": "4590"
     },
     {
-      "dailyconfirmed": "213",
-      "dailydeceased": "5",
-      "dailyrecovered": "5",
+      "dailyconfirmed": "515",
+      "dailydeceased": "1",
+      "dailyrecovered": "0",
       "date": "17 Jun 2021",
       "dateymd": "2021-06-17",
       "totalconfirmed": "12150",
       "totaldeceased": "62",
-      "totalrecovered": "0"
+      "totalrecovered": "4590"
     },
     {
-      "dailyconfirmed": "213",
-      "dailydeceased": "5",
-      "dailyrecovered": "5",
+      "dailyconfirmed": "264",
+      "dailydeceased": "0",
+      "dailyrecovered": "143",
       "date": "18 Jun 2021",
       "dateymd": "2021-06-18",
       "totalconfirmed": "12414",
       "totaldeceased": "62",
-      "totalrecovered": "0"
+      "totalrecovered": "4733"
     },
     {
-      "dailyconfirmed": "213",
-      "dailydeceased": "5",
-      "dailyrecovered": "5",
+      "dailyconfirmed": "486",
+      "dailydeceased": "2",
+      "dailyrecovered": "321",
       "date": "19 Jun 2021",
       "dateymd": "2021-06-19",
       "totalconfirmed": "12900",
       "totaldeceased": "64",
-      "totalrecovered": "0"
+      "totalrecovered": "5054"
     },
     {
-      "dailyconfirmed": "213",
-      "dailydeceased": "5",
-      "dailyrecovered": "5",
+      "dailyconfirmed": "311",
+      "dailydeceased": "2",
+      "dailyrecovered": "175",
       "date": "20 Jun 2021",
       "dateymd": "2021-06-20",
       "totalconfirmed": "13211",
       "totaldeceased": "66",
-      "totalrecovered": "0"
+      "totalrecovered": "5229"
     },
     {
-      "dailyconfirmed": "15",
-      "dailydeceased": "0",
+      "dailyconfirmed": "272",
+      "dailydeceased": "3",
       "dailyrecovered": "0",
       "date": "21 Jun 2021",
       "dateymd": "2021-06-21",
       "totalconfirmed": "13483",
       "totaldeceased": "69",
-      "totalrecovered": "0"
+      "totalrecovered": "5229"
     },
     {
-      "dailyconfirmed": "10",
-      "dailydeceased": "1",
-      "dailyrecovered": "3",
+      "dailyconfirmed": "244",
+      "dailydeceased": "0",
+      "dailyrecovered": "224",
       "date": "22 Jun 2021",
       "dateymd": "2021-06-22",
       "totalconfirmed": "13727",
       "totaldeceased": "69",
-      "totalrecovered": "0"
+      "totalrecovered": "5453"
     },
     {
-      "dailyconfirmed": "87",
-      "dailydeceased": "6",
-      "dailyrecovered": "1",
+      "dailyconfirmed": "220",
+      "dailydeceased": "1",
+      "dailyrecovered": "93",
       "date": "23 Jun 2021",
       "dateymd": "2021-06-23",
       "totalconfirmed": "13947",
       "totaldeceased": "70",
-      "totalrecovered": "0"
+      "totalrecovered": "5546"
     },
     {
-      "dailyconfirmed": "132",
-      "dailydeceased": "6",
-      "dailyrecovered": "2",
+      "dailyconfirmed": "285",
+      "dailydeceased": "2",
+      "dailyrecovered": "138",
       "date": "24 Jun 2021",
       "dateymd": "2021-06-24",
       "totalconfirmed": "14232",
       "totaldeceased": "72",
-      "totalrecovered": "0"
+      "totalrecovered": "5684"
     },
     {
-      "dailyconfirmed": "213",
-      "dailydeceased": "5",
-      "dailyrecovered": "5",
+      "dailyconfirmed": "305",
+      "dailydeceased": "2",
+      "dailyrecovered": "75",
       "date": "25 Jun 2021",
       "dateymd": "2021-06-25",
       "totalconfirmed": "14435",
       "totaldeceased": "74",
-      "totalrecovered": "2.516"
+      "totalrecovered": "5759"
     },
     {
-      "dailyconfirmed": "213",
-      "dailydeceased": "5",
-      "dailyrecovered": "5",
+      "dailyconfirmed": "738",
+      "dailydeceased": "0",
+      "dailyrecovered": "353",
       "date": "26 Jun 2021",
       "dateymd": "2021-06-26",
       "totalconfirmed": "15275",
       "totaldeceased": "74",
-      "totalrecovered": "0"
+      "totalrecovered": "6112"
     },
     {
-      "dailyconfirmed": "213",
-      "dailydeceased": "5",
-      "dailyrecovered": "5",
+      "dailyconfirmed": "368",
+      "dailydeceased": "2",
+      "dailyrecovered": "182",
       "date": "27 Jun 2021",
       "dateymd": "2021-06-27",
       "totalconfirmed": "15643",
       "totaldeceased": "76",
-      "totalrecovered": "0"
+      "totalrecovered": "6294"
     },
     {
-      "dailyconfirmed": "213",
-      "dailydeceased": "5",
-      "dailyrecovered": "5",
+      "dailyconfirmed": "398",
+      "dailydeceased": "0",
+      "dailyrecovered": "225",
       "date": "28 Jun 2021",
       "dateymd": "2021-06-28",
       "totalconfirmed": "16041",
       "totaldeceased": "76",
-      "totalrecovered": "0"
+      "totalrecovered": "6519"
     },
     {
-      "dailyconfirmed": "213",
-      "dailydeceased": "5",
-      "dailyrecovered": "5",
+      "dailyconfirmed": "372",
+      "dailydeceased": "4",
+      "dailyrecovered": "245",
       "date": "29 Jun 2021",
       "dateymd": "2021-06-29",
       "totalconfirmed": "16413",
       "totaldeceased": "80",
-      "totalrecovered": "0"
+      "totalrecovered": "6764"
     },
     {
-      "dailyconfirmed": "213",
-      "dailydeceased": "5",
-      "dailyrecovered": "5",
+      "dailyconfirmed": "450",
+      "dailydeceased": "1",
+      "dailyrecovered": "76",
       "date": "30 Jun 2021",
       "dateymd": "2021-06-30",
       "totalconfirmed": "16863",
       "totaldeceased": "81",
-      "totalrecovered": "0"
+      "totalrecovered": "6840"
     },
     {
-      "dailyconfirmed": "15",
+      "dailyconfirmed": "713",
       "dailydeceased": "0",
       "dailyrecovered": "0",
       "date": "1 Jul 2021",
       "dateymd": "2021-07-1",
       "totalconfirmed": "17576",
       "totaldeceased": "81",
-      "totalrecovered": "0"
+      "totalrecovered": "6840"
     },
     {
-      "dailyconfirmed": "10",
-      "dailydeceased": "1",
-      "dailyrecovered": "3",
+      "dailyconfirmed": "545",
+      "dailydeceased": "3",
+      "dailyrecovered": "555",
       "date": "2 Jul 2021",
       "dateymd": "2021-07-2",
       "totalconfirmed": "18121",
       "totaldeceased": "84",
-      "totalrecovered": "0"
+      "totalrecovered": "7395"
     },
     {
-      "dailyconfirmed": "87",
-      "dailydeceased": "6",
-      "dailyrecovered": "1",
+      "dailyconfirmed": "922",
+      "dailydeceased": "0",
+      "dailyrecovered": "0",
       "date": "3 Jul 2021",
       "dateymd": "2021-07-03",
       "totalconfirmed": "19043",
       "totaldeceased": "84",
-      "totalrecovered": "0"
+      "totalrecovered": "7395"
     },
     {
-      "dailyconfirmed": "132",
-      "dailydeceased": "6",
-      "dailyrecovered": "2",
+      "dailyconfirmed": "887",
+      "dailydeceased": "2",
+      "dailyrecovered": "248",
       "date": "4 Jul 2021",
       "dateymd": "2021-07-04",
       "totalconfirmed": "19933",
       "totaldeceased": "86",
-      "totalrecovered": "0"
+      "totalrecovered": "7643"
     },
     {
-      "dailyconfirmed": "213",
-      "dailydeceased": "5",
-      "dailyrecovered": "5",
+      "dailyconfirmed": "1102",
+      "dailydeceased": "4",
+      "dailyrecovered": "176",
       "date": "5 Jul 2021",
       "dateymd": "2021-07-05",
       "totalconfirmed": "21035",
       "totaldeceased": "90",
-      "totalrecovered": "2.516"
+      "totalrecovered": "7819"
     },
     {
-      "dailyconfirmed": "213",
-      "dailydeceased": "5",
-      "dailyrecovered": "5",
+      "dailyconfirmed": "1029",
+      "dailydeceased": "7",
+      "dailyrecovered": "203",
       "date": "6 Jul 2021",
       "dateymd": "2021-07-06",
       "totalconfirmed": "22064",
       "totaldeceased": "97",
-      "totalrecovered": "0"
+      "totalrecovered": "8022"
     },
     {
-      "dailyconfirmed": "213",
+      "dailyconfirmed": "1007",
       "dailydeceased": "5",
-      "dailyrecovered": "5",
+      "dailyrecovered": "55",
       "date": "7 Jul 2021",
       "dateymd": "2021-07-07",
       "totalconfirmed": "23071",
       "totaldeceased": "102",
-      "totalrecovered": "0"
+      "totalrecovered": "8077"
     },
     {
-      "dailyconfirmed": "213",
-      "dailydeceased": "5",
-      "dailyrecovered": "5",
+      "dailyconfirmed": "1307",
+      "dailydeceased": "3",
+      "dailyrecovered": "480",
       "date": "8 Jul 2021",
       "dateymd": "2021-07-08",
       "totalconfirmed": "23740",
       "totaldeceased": "105",
-      "totalrecovered": "0"
+      "totalrecovered": "8557"
     }
   ]
 }

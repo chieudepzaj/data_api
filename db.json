@@ -1,16 +1,6 @@
 {
   "cases_time_series": [
     {
-      "dailyconfirmed": "407",
-      "dailydeceased": "0",
-      "dailyrecovered": "51",
-      "date": "9 Jun 2021",
-      "dateymd": "2021-06-09",
-      "totalconfirmed": "9565",
-      "totaldeceased": "55",
-      "totalrecovered": "3547"
-    },
-    {
       "dailyconfirmed": "219",
       "dailydeceased": "0",
       "dailyrecovered": "89",
@@ -300,5 +290,13 @@
       "totaldeceased": "105",
       "totalrecovered": "8557"
     }
-  ]
+  ],
+  "tested": [
+		{
+			"testedasof": "8/07/2021",
+			"totalindividualstested": "3.633.046",
+			"totalsamplestested": "3.633.046",
+			"updatetimestamp": "8/07/2021 00:00:00",
+		}
+    ]
 }

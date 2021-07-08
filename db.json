@@ -99,7 +99,8 @@
       "totalconfirmed": "9784",
       "totaldeceased": "55",
       "totalrecovered": "0"
- {
+    },
+    {
       "dailyconfirmed": "15",
       "dailydeceased": "0",
       "dailyrecovered": "0",
@@ -298,8 +299,8 @@
       "totalconfirmed": "16863",
       "totaldeceased": "81",
       "totalrecovered": "0"
-    }
- {
+    },
+    {
       "dailyconfirmed": "15",
       "dailydeceased": "0",
       "dailyrecovered": "0",

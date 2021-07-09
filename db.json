@@ -286,17 +286,27 @@
       "dailyrecovered": "480",
       "date": "8 Jul 2021",
       "dateymd": "2021-07-08",
-      "totalconfirmed": "23740",
+      "totalconfirmed": "24385",
       "totaldeceased": "105",
       "totalrecovered": "8557"
+    },
+    {
+      "dailyconfirmed": "423",
+      "dailydeceased": "0",
+      "dailyrecovered": "393",
+      "date": "9 Jul 2021",
+      "dateymd": "2021-07-09",
+      "totalconfirmed": "24810",
+      "totaldeceased": "105",
+      "totalrecovered": "8950"
     }
   ],
   "tested": [
     {
-      "testedasof": "8/07/2021",
-      "totalindividualstested": "3.633.046",
-      "totalsamplestested": "3.633.046",
-      "updatetimestamp": "8/07/2021 00:00:00"
+      "testedasof": "9/07/2021",
+      "totalindividualstested": "249.532",
+      "totalsamplestested": "249.532",
+      "updatetimestamp": "9/07/2021 00:00:00"
     }
   ]
 }

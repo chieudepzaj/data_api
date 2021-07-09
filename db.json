@@ -291,12 +291,12 @@
       "totalrecovered": "8557"
     },
     {
-      "dailyconfirmed": "423",
+      "dailyconfirmed": "1026",
       "dailydeceased": "0",
       "dailyrecovered": "393",
       "date": "9 Jul 2021",
       "dateymd": "2021-07-09",
-      "totalconfirmed": "24810",
+      "totalconfirmed": "25419",
       "totaldeceased": "105",
       "totalrecovered": "8950"
     }
